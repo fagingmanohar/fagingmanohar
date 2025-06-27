@@ -1,3 +1,3 @@
 ## LIFE IN MAINTENANCE MODE
-![Taking a Break](https://github.com/fagingmanohar/TKNG-BRK/raw/main/FGM%20BRK(2).png)
+![Taking a Break](https://raw.githubusercontent.com/fagingmanohar/fagingmanohar/refs/heads/main/FGM%20BRK(2).png)
 
